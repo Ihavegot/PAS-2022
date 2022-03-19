@@ -1,7 +1,7 @@
 import socket
 
 if __name__ == '__main__':
-    host = '212.182.24.27'
+    host = '212.182.24.236'
     port = 2902
 
     with socket.socket(socket.AF_INET, socket.SOCK_DGRAM) as s:

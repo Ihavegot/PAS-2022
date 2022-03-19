@@ -3,8 +3,8 @@ import sys
 
 if __name__ == "__main__":
 
-    host = '212.182.24.27'
-    port = 25
+    host = '212.182.24.236'
+    port = 2900
     remote_server_ip = socket.gethostbyname(host)
 
     with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:

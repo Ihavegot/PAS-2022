@@ -1,8 +1,8 @@
 import socket
 
 if __name__ == '__main__':
-    host = '212.182.24.27'
-    port = 22
+    host = '212.182.24.236'
+    port = 2900
 
     while True:
         with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:

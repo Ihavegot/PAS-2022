@@ -2,8 +2,8 @@ import socket
 
 if __name__ == "__main__":
 
-    ip = '212.182.24.27'
-    x, y = 20, 30
+    ip = '212.182.24.236'
+    x, y = 2900, 2910
     remote_server_ip = socket.gethostbyname(ip)
 
     for i in range(x, y+1):
