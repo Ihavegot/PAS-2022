@@ -1,6 +1,6 @@
 # Next.js setup
 
-*** Requirements: ***
+***Requirements:***
 - Node v16.14.1
 
 ##
