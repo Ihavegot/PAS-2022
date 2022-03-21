@@ -1,8 +1,6 @@
 # Next.js setup
 
-Requirements:
-
-Node v16.14.1
+## Requirements: Node v16.14.1
 
 In project folder ./frontend/vvc
 ```
