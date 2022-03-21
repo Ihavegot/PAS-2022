@@ -1,9 +1,11 @@
 # Next.js setup
 
-In project folder ./vvc
-
+In project folder ./frontend/vvc
 ```
 npm run dev
 ```
 
-Open in browser - localhost:3000
+Open in browser
+```
+localhost:3000
+```
