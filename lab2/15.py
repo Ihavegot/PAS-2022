@@ -43,6 +43,9 @@ output2 = f'zad15odpB;srcport;{int(source, 2)};dstport;{int(destination, 2)};dat
 host = '212.182.24.236'
 port = 2911
 
+print(output1)
+print(output2)
+
 with socket.socket(socket.AF_INET, socket.SOCK_DGRAM) as s:
     s.settimeout(5)
 
