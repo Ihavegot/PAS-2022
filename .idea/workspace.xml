@@ -2,29 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="93cc2abf-1b9e-4171-b1fb-8849f5525d31" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/lab3/1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab3/10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab3/11.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab3/2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab3/3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab3/4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab3/5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab3/6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab3/7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab3/8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab3/9.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab3/client1&amp;2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab3/client10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab3/client11.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab3/client3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab3/client4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab3/client5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab3/client6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab3/client7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab3/client8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab3/client9.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab3/test.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab3/11.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab3/11.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
