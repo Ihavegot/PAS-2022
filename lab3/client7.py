@@ -1,0 +1,17 @@
+import socket
+
+HOST = '127.0.0.1'
+PORT = 2900
+mess = 'randomowa wiadomosc o dlugosci +- 20 znakow'
+
+with socket.socket(socket.AF_INET, socket.SOCK_DGRAM) as s:
+    s.settimeout(5)
+    if s.connect_ex((HOST, PORT)) == 0:
+        print('Connected')
+
+        s.sendall(bytes(mess, 'UTF-8'))
+        recvData = s.recv(1024)
+
+        print(f'Answer: {recvData.decode()}')
+    else:
+        print('Connection error')
