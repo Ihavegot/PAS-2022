@@ -11,5 +11,5 @@ with socket.socket(socket.AF_INET, socket.SOCK_DGRAM) as s:
     while True:
         data, client = s.recvfrom(1024)
         print(f'Received: {data.decode("utf-8")}')
-
+        print(client)
         s.sendto(data, client)
