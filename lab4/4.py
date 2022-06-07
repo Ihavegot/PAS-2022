@@ -39,5 +39,5 @@ def udpServer():
     s.close()
 
 
-tcpServer()
-# udpServer()
+# tcpServer()
+udpServer()
